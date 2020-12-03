@@ -1,0 +1,9 @@
+Este es un proyecto que incluye:
+laravel 7
+esta configurado con la IU de laravel
+tiene las opciones de roles y permisos, bueno solo la base
+falta configurar unos detalles
+Y tiene a la tabla de productos
+
+todas las vistas con modelos te maneja el listado y el show, nadamas
+falla en algunos campos pero como base tiene solo la UI y un diseño basico

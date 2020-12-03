@@ -1,0 +1,6 @@
+Este proyecto tiene la visata de productos, users, permission y role mas o menos, 
+agrega nuevos roles
+y ya lista en las vistas
+bueno para apoyarme
+
+ademas de agregar usuarios con el auth
